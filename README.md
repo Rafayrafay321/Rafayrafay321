@@ -25,7 +25,7 @@
 
 ---
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/f9jQLaYX3U0xFvPjOZ/giphy.gif" />
 
 ### 👨‍💻 About Me
 
@@ -44,10 +44,10 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" height="40">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/sql.svg" alt="sql" height="40">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="data" height="40">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" height="40">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" height="40">
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" height="40">
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" height="40">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" height="40">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" height="40">
 </p>
 
 ---
@@ -62,6 +62,15 @@
 - 📊 **Data Visualization** → Power BI, Matplotlib  
 - ⚙️ **Data Engineering (Aspiring)** → Data pipelines, Snowflake, Spark, dbt  
 - 🤖 Exploring **Machine Learning & AI** foundations  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafayRafay&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafayRafay&layout=compact&theme=radical" height="180px"/>
+</p>
 
 ---
 

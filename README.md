@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/abdul-rafay-79214a336/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="linkedin.com/in/abdulrrafay"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://www.facebook.com/rafay.raj.908"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>
 </p>
 
@@ -14,10 +14,6 @@
 </div>
 
 ---
-
-<p align="center">
-   <a href="#"><img alt="Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=rafay.rafay"></a>
-</p>
 
 <h5 align="center">
    <i>⚡️ Data tells stories – I translate them into insights ⚡️</i>
@@ -54,23 +50,10 @@
 
 ### 📌 What I Do
 
-<p align="center">
-   <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" height="200"/>
-</p>
-
 - 🔍 **Data Analysis** → SQL, Excel, Python (Pandas, NumPy)  
 - 📊 **Data Visualization** → Power BI, Matplotlib  
 - ⚙️ **Data Engineering (Aspiring)** → Data pipelines, Snowflake, Spark, dbt  
 - 🤖 Exploring **Machine Learning & AI** foundations  
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafayRafay&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafayRafay&layout=compact&theme=radical" height="180px"/>
-</p>
 
 ---
 
@@ -83,7 +66,3 @@
 <p align="center">Made with ❤️ in Pakistan</p>
 
 <h1 align='center'>⚡️<i>Stay curious, stay data-driven!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>

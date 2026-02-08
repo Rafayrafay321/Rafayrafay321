@@ -9,14 +9,14 @@
 </p>
 
 <div align="center">
-<h3>📊 Abdul Rafay | 💻 Data & Business Analyst | 🌍 Pakistan</h3>
-<h4>Aspiring Data Engineer 🚀</h4>
+<h3>📊 Abdul Rafay | 💻 Backend Engineer | 🌍 Pakistan</h3>
+<h4>Aspiring FullStack Engineer 🚀</h4>
 </div>
 
 ---
 
 <h5 align="center">
-   <i>⚡️ Data tells stories – I translate them into insights ⚡️</i>
+   <i>⚡️ Data tells stories – I translate them into Bussienss ⚡️</i>
 </h5>
 
 ---
@@ -25,35 +25,44 @@
 
 ### 👨‍💻 About Me
 
-- 📈 I’m a **Data & Business Analyst** skilled in turning raw data into actionable insights.  
-- 🛠 Proficient in **SQL, PostgreSQL, Python (Pandas, NumPy, Matplotlib), and Advanced Excel**.  
-- 📊 Experienced in **Power BI dashboards & storytelling with data**.  
-- 🌱 Currently learning **Data Engineering**: building pipelines with Python, SQL, and modern tools (Snowflake, dbt, Apache Spark).  
-- 🛰 Passionate about **data-driven decision making** and **AI/ML exploration**.  
-- 💬 Let’s connect and talk about **analytics, data engineering, or space science** ✨  
+- 📈 I’m a **Backend Engineer** focused on turning complex problems into **scalable, reliable backend systems**.  
+- 🛠 Experienced with **TypeScript, JavaScript, SQL, PostgreSQL, Vitest, Python**, with working knowledge of **React**.  
+- 🌱 Currently exploring **Data Engineering** — building data pipelines using **Python, SQL**, and modern tools like **Snowflake, dbt, and Apache Spark**.  
+- 💬 Always happy to talk about **backend development, data engineering, system design, or space science** ✨  
+ 
 
 ---
 
 ### 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" height="40">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/sql.svg" alt="sql" height="40">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="data" height="40">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" height="40">
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" height="40">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" height="40">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="40"/>
 </p>
+
 
 ---
 
 ### 📌 What I Do
 
-- 🔍 **Data Analysis** → SQL, Excel, Python (Pandas, NumPy)  
-- 📊 **Data Visualization** → Power BI, Matplotlib  
-- ⚙️ **Data Engineering (Aspiring)** → Data pipelines, Snowflake, Spark, dbt  
-- 🤖 Exploring **Machine Learning & AI** foundations  
+- ⚙️ **Backend Development** → TypeScript, Node.js, Express, NestJS  
+- 🧩 **API Design & Architecture** → REST APIs, GraphQL, Clean Architecture  
+- 🗄️ **Databases & Caching** → PostgreSQL, MongoDB, Redis  
+- 🔐 **Auth & Security** → JWT, OAuth, Role-Based Access Control  
+- 🚀 **DevOps & Deployment** → Docker, Nginx, AWS  
+- 🧪 **Testing & Quality** → Jest, Supertest, Unit & Integration Testing  
+- ⚡ **Scalable Systems (Learning)** → Microservices, Queues, System Design  
+
 
 ---
 
